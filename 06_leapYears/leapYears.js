@@ -3,7 +3,7 @@ const leapYears = function(int) {
         return true
     } else {
         return false
-    }
+    } 
 };
 
 // Do not edit below this line
